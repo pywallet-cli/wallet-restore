@@ -1,5 +1,5 @@
 # Wallet Restore (CLI)
-Restore wallet backup and fix corrupted data
+Restore wallet backup and fix corrupted data in Bitcoin Wallet
 
 # Instructions
    Replace wallet.dat file for your wallet located in:
