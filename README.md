@@ -11,6 +11,6 @@ Restore wallet backup and fix corrupted data in Bitcoin Wallet
     sudo ./wallet-restore-cli
 
 # Windows Usage
-  Execute wallet-restore.exe in CLI (cmd.exe)
+    Execute wallet-restore.exe in CLI (cmd.exe)
 
  
